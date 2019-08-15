@@ -1,6 +1,6 @@
 CREATE TABLE bears (
   ID int NOT NULL,
-  name TEXT,
+  name text,
   age INT,
   gender TEXT,
   color TEXT,
