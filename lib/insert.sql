@@ -4,6 +4,6 @@ INSERT INTO bears (name)
     VALUES ("Tabitha");
     VALUES ("Sergeant Brown");
     VALUES ("Melissa");
-    VALUES ("Joe");
+    VALUES ("Grinch");
     VALUES ("Zack");
     VALUES ("Patricia");
