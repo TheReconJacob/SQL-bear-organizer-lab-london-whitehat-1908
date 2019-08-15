@@ -1,5 +1,5 @@
 def selects_all_female_bears_return_name_and_age
-  "SELECT MAX(f) FROM bears;"
+  "SELECT(f) FROM bears;"
   RETURN name, age
 end
 
