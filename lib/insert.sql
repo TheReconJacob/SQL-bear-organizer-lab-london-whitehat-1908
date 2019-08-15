@@ -1,5 +1,5 @@
 INSERT INTO bears (name)
-    VALUES ("John");
+    VALUES ("Mr.Cho");
     VALUES ("Mary");
     VALUES ("Angelo");
     VALUES ("Sheila");
