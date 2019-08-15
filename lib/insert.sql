@@ -3,7 +3,7 @@ INSERT INTO bears (name)
     VALUES ("Rowdy");
     VALUES ("Tabitha");
     VALUES ("Sergeant Brown");
-    VALUES ("Bill");
+    VALUES ("Melissa");
     VALUES ("Joe");
     VALUES ("Zack");
     VALUES ("Patricia");
